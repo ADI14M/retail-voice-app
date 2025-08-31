@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Idly Batter", "category": "breakfast", "price": 100 },
+  { "id": 2, "name": "Dosa Batter", "category": "breakfast", "price": 120 },
+  { "id": 3, "name": "Rasam Powder", "category": "spices", "price": 80 },
+  { "id": 4, "name": "Coconut Chutney", "category": "sides", "price": 50 },
+  { "id": 5, "name": "Biscuits", "category": "snacks", "price": 30 }
+]
